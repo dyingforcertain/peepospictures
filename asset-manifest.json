@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/peepospictures/static/css/main.ad39bdb4.chunk.css",
-    "main.js": "/peepospictures/static/js/main.e37e0e34.chunk.js",
-    "main.js.map": "/peepospictures/static/js/main.e37e0e34.chunk.js.map",
+    "main.css": "/peepospictures/static/css/main.fe3e7600.chunk.css",
+    "main.js": "/peepospictures/static/js/main.2c480615.chunk.js",
+    "main.js.map": "/peepospictures/static/js/main.2c480615.chunk.js.map",
     "runtime-main.js": "/peepospictures/static/js/runtime-main.994ed71f.js",
     "runtime-main.js.map": "/peepospictures/static/js/runtime-main.994ed71f.js.map",
-    "static/js/2.1b9f39eb.chunk.js": "/peepospictures/static/js/2.1b9f39eb.chunk.js",
-    "static/js/2.1b9f39eb.chunk.js.map": "/peepospictures/static/js/2.1b9f39eb.chunk.js.map",
+    "static/js/2.654c1786.chunk.js": "/peepospictures/static/js/2.654c1786.chunk.js",
+    "static/js/2.654c1786.chunk.js.map": "/peepospictures/static/js/2.654c1786.chunk.js.map",
     "index.html": "/peepospictures/index.html",
-    "static/css/main.ad39bdb4.chunk.css.map": "/peepospictures/static/css/main.ad39bdb4.chunk.css.map",
-    "static/js/2.1b9f39eb.chunk.js.LICENSE.txt": "/peepospictures/static/js/2.1b9f39eb.chunk.js.LICENSE.txt"
+    "static/css/main.fe3e7600.chunk.css.map": "/peepospictures/static/css/main.fe3e7600.chunk.css.map",
+    "static/js/2.654c1786.chunk.js.LICENSE.txt": "/peepospictures/static/js/2.654c1786.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.994ed71f.js",
-    "static/js/2.1b9f39eb.chunk.js",
-    "static/css/main.ad39bdb4.chunk.css",
-    "static/js/main.e37e0e34.chunk.js"
+    "static/js/2.654c1786.chunk.js",
+    "static/css/main.fe3e7600.chunk.css",
+    "static/js/main.2c480615.chunk.js"
   ]
 }
