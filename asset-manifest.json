@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/peepospictures/static/css/main.ad39bdb4.chunk.css",
-    "main.js": "/peepospictures/static/js/main.86248573.chunk.js",
-    "main.js.map": "/peepospictures/static/js/main.86248573.chunk.js.map",
+    "main.js": "/peepospictures/static/js/main.23175f94.chunk.js",
+    "main.js.map": "/peepospictures/static/js/main.23175f94.chunk.js.map",
     "runtime-main.js": "/peepospictures/static/js/runtime-main.994ed71f.js",
     "runtime-main.js.map": "/peepospictures/static/js/runtime-main.994ed71f.js.map",
     "static/js/2.9bdfaf1f.chunk.js": "/peepospictures/static/js/2.9bdfaf1f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.994ed71f.js",
     "static/js/2.9bdfaf1f.chunk.js",
     "static/css/main.ad39bdb4.chunk.css",
-    "static/js/main.86248573.chunk.js"
+    "static/js/main.23175f94.chunk.js"
   ]
 }
