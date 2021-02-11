@@ -1,23 +1,23 @@
 {
-  "year_list": [
+  "years": [
     {
       "year": 2020,
       "pictures": [
         {
           "month": 2,
-          "image_path": "src/attributes/pictures2020/5ed.png"
+          "path": "public/assests/pictures2020/5ed.png"
         },
         {
-          "month": 2,
-          "image_path": "src/attributes/pictures2020/98b.png"
+          "month": 3,
+          "path": "public/assests/pictures2020/98b.png"
         },
         {
-          "month": 2,
-          "image_path": "src/attributes/pictures2020/109102967.png"
+          "month": 4,
+          "path": "public/assests/pictures2020/109102967.png"
         },
         {
-          "month": 2,
-          "image_path": "src/attributes/pictures2020/b67.png"
+          "month": 5,
+          "path": "public/assests/pictures2020/b67.png"
         }
       ]
     },
@@ -25,20 +25,20 @@
       "year": 2021,
       "pictures": [
         {
-          "month": 3,
-          "image_path": "src/attributes/pictures2021/flower/clb7Cr4LUUxI6x63rSc0W5xxo4xPs3BOcvSjKTA7u7eC1zioetCn-TX6vABu62aHbwSVFo7Nld0_Ax1xLBoIZmjqU_Hew9cQqo4J.png"
+          "month": 1,
+          "path": "public/assests/pictures2021/flower/clb7Cr4LUUxI6x63rSc0W5xxo4xPs3BOcvSjKTA7u7eC1zioetCn-TX6vABu62aHbwSVFo7Nld0_Ax1xLBoIZmjqU_Hew9cQqo4J.png"
         },
         {
-          "month": 3,
-          "image_path": "src/attributes/pictures2021/flower/peepocheer.png"
+          "month": 1,
+          "path": "public/assests/pictures2021/flower/peepocheer.png"
         },
         {
-          "month": 3,
-          "image_path": "src/attributes/pictures2021/flower/peepocreep.png"
+          "month": 2,
+          "path": "public/assests/pictures2021/flower/peepocreep.png"
         },
         {
-          "month": 3,
-          "image_path": "src/attributes/pictures2021/flower/peepomask.png"
+          "month": 2,
+          "path": "public/assests/pictures2021/flower/peepomask.png"
         }
       ]
     }
