@@ -1,0 +1,33 @@
+.year-wrapper {
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.year {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.month-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 5vh 1vw;
+}
+
+.month-wrapper a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  width: 100%;
+  text-decoration: none;
+  color: black;
+}
+
+.month-wrapper a:hover {
+  border: 1px black solid;
+}
+
+.not-completed {
+  background: black;
+}
